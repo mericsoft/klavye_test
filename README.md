@@ -31,3 +31,9 @@ Uygulama PHP-DESKTOP projesi kullanılarak geliştirildi
 
 Sözkonusu projeyi https://github.com/cztomczak/phpdesktop adresinden fork edebilirsiniz.
 
+proje dosyalarımızı indirip extract ettiğiniz klasördeki www klasörüne atıyoruz
+
+Sonrasında setting json dosyasını hazırlamanız gerekiyor. Örnek bir dosyayı yukarıda bulacaksınız.
+
+Program kurulumsuz doğrudan çalıştığı gibi kurulumlu hale getirmek mümkün. İlgili adreste ayrıntılı açıkalma mevcut.
+
